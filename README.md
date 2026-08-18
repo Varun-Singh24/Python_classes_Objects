@@ -1,4 +1,4 @@
-# 🚗 OOPs in Python: Classes & Inheritance
+# 🚗 OOP in Python: Classes & Inheritance
 
 ### This repository covers the fundamentals of **Object-Oriented Programming (OOP)** in Python, focusing on **Classes**, **Objects**, **Constructors**, and **Inheritance**.
 
